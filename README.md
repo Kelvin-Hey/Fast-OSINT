@@ -6,16 +6,16 @@ Sou programador e estudante de Análise e Desenvolvimento de Sistemas no Institu
 
 - 📚 Me encontro atualmente estudando a linguagem Java, juntamente com suas tecnologias relacionadas.
 - 🛠 Planejo seguir minha carreira como desenvolvedor Java na área da Web.
-- 🤝 I'm looking to collaborate on Web projects or Api design projects.
+- 🏹.
 
 ---
 
-### 🗡 Linguagens e Ferramentas
+### 🗡 Linguagens e Ferramentas 🏹
 
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>  <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 ---
 
-### 📞 Contato:
+###  ☎ Contato:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-baumann-6054a437/)](https://https://www.linkedin.com/in/kelvinhey/)
