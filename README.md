@@ -1,6 +1,6 @@
 # Kelvin Hey
 
-![](https://komarev.com/ghpvc/?username=Kelvin-Hey&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=Kelvin-Hey&color=brightgreen&label=Visualizações&style=plastic)
 
 Sou programador e estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal do Paraná. No momento estou cursando meu segundo semestre.
 
